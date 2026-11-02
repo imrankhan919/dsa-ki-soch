@@ -13,16 +13,18 @@ Har problem 4 steps mein solve hoti hai:
 
 Zaroorat: sirf Python basics.
 
+▶ **Videos:** [youtube.com/@eskillsweb](https://www.youtube.com/@eskillsweb)
+
 ## Episodes
 
 | Ep | Topic | Code | Video |
 | --- | --- | --- | --- |
-| 00 | Two Sum (3 tareeke se) | [season-1/ep00-two-sum](season-1/ep00-two-sum) | YouTube: _link soon_ |
+| 00 | Two Sum (3 tareeke se) | [season-1/ep00-two-sum](season-1/ep00-two-sum) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 01 | Two Pointers | _coming soon_ | |
 | 02 | Sliding Window | _coming soon_ | |
 
 ## Follow
 
-- YouTube: E-Skills
+- YouTube: [E-Skills (@eskillsweb)](https://www.youtube.com/@eskillsweb)
 - Instagram: [@eskillsweb](https://instagram.com/eskillsweb) · [@imrankhan.ai](https://instagram.com/imrankhan.ai)
 - DSA se placement tak guidance: [eskillsweb.com](https://eskillsweb.com)

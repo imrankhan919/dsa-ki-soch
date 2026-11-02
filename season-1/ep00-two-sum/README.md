@@ -2,6 +2,8 @@
 
 **Problem:** [LeetCode 1 – Two Sum](https://leetcode.com/problems/two-sum/)
 
+**Video:** [E-Skills YouTube](https://www.youtube.com/@eskillsweb)
+
 Numbers ki ek list aur ek target diya hai. Do **alag** positions dhoondho jinke numbers ka sum target ke barabar ho, aur unke index return karo. Exactly ek answer hai.
 
 ## S.O.C.H.
