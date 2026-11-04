@@ -39,7 +39,8 @@ Zaroorat: sirf Python basics.
 | 17 | Contains Duplicate (Hashing, new pattern) | [season-1/ep17-contains-duplicate](season-1/ep17-contains-duplicate) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 18 | Valid Anagram (Hashing) | [season-1/ep18-valid-anagram](season-1/ep18-valid-anagram) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 19 | Group Anagrams (Hashing) | [season-1/ep19-group-anagrams](season-1/ep19-group-anagrams) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 20 | Longest Consecutive Sequence (Hashing) | _coming soon_ | |
+| 20 | Longest Consecutive Sequence (Hashing) | [season-1/ep20-longest-consecutive-sequence](season-1/ep20-longest-consecutive-sequence) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 21 | Top K Frequent Elements (Hashing) | _coming soon_ | |
 
 ## Follow
 
