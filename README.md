@@ -34,7 +34,8 @@ Zaroorat: sirf Python basics.
 | 12 | Find Pivot Index (Prefix Sum) | [season-1/ep12-find-pivot-index](season-1/ep12-find-pivot-index) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 13 | Product of Array Except Self (Prefix × Suffix) | [season-1/ep13-product-of-array-except-self](season-1/ep13-product-of-array-except-self) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 14 | Subarray Sum Equals K (Prefix Sum + HashMap) | [season-1/ep14-subarray-sum-equals-k](season-1/ep14-subarray-sum-equals-k) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 15 | Contiguous Array (Prefix Sum + HashMap) | _coming soon_ | |
+| 15 | Contiguous Array (Prefix Sum + HashMap) | [season-1/ep15-contiguous-array](season-1/ep15-contiguous-array) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 16 | Subarray Sums Divisible by K (Prefix Sum + HashMap) | _coming soon_ | |
 
 ## Follow
 
