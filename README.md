@@ -44,7 +44,8 @@ Zaroorat: sirf Python basics.
 | 22 | Binary Search (new pattern) | [season-1/ep22-binary-search](season-1/ep22-binary-search) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 23 | Search Insert Position (Binary Search) | [season-1/ep23-search-insert-position](season-1/ep23-search-insert-position) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 24 | First and Last Position (Binary Search) | [season-1/ep24-first-last-position](season-1/ep24-first-last-position) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 25 | Find Minimum in Rotated Sorted Array (Binary Search) | _coming soon_ | |
+| 25 | Find Minimum in Rotated Sorted Array (Binary Search) | [season-1/ep25-find-min-rotated](season-1/ep25-find-min-rotated) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 26 | Search in Rotated Sorted Array (Binary Search) | _coming soon_ | |
 
 ## Follow
 
