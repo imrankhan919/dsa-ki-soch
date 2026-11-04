@@ -37,7 +37,8 @@ Zaroorat: sirf Python basics.
 | 15 | Contiguous Array (Prefix Sum + HashMap) | [season-1/ep15-contiguous-array](season-1/ep15-contiguous-array) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 16 | Subarray Sums Divisible by K (Prefix Sum + HashMap) | [season-1/ep16-subarray-sums-divisible-by-k](season-1/ep16-subarray-sums-divisible-by-k) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 17 | Contains Duplicate (Hashing, new pattern) | [season-1/ep17-contains-duplicate](season-1/ep17-contains-duplicate) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 18 | Valid Anagram (Hashing) | _coming soon_ | |
+| 18 | Valid Anagram (Hashing) | [season-1/ep18-valid-anagram](season-1/ep18-valid-anagram) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 19 | Group Anagrams (Hashing) | _coming soon_ | |
 
 ## Follow
 
