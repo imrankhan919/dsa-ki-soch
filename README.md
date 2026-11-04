@@ -42,7 +42,8 @@ Zaroorat: sirf Python basics.
 | 20 | Longest Consecutive Sequence (Hashing) | [season-1/ep20-longest-consecutive-sequence](season-1/ep20-longest-consecutive-sequence) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 21 | Top K Frequent Elements (Hashing + Bucket) | [season-1/ep21-top-k-frequent-elements](season-1/ep21-top-k-frequent-elements) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 22 | Binary Search (new pattern) | [season-1/ep22-binary-search](season-1/ep22-binary-search) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 23 | Search Insert Position (Binary Search) | _coming soon_ | |
+| 23 | Search Insert Position (Binary Search) | [season-1/ep23-search-insert-position](season-1/ep23-search-insert-position) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 24 | First and Last Position (Binary Search) | _coming soon_ | |
 
 ## Follow
 
