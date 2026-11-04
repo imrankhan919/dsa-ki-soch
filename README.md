@@ -40,7 +40,8 @@ Zaroorat: sirf Python basics.
 | 18 | Valid Anagram (Hashing) | [season-1/ep18-valid-anagram](season-1/ep18-valid-anagram) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 19 | Group Anagrams (Hashing) | [season-1/ep19-group-anagrams](season-1/ep19-group-anagrams) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 20 | Longest Consecutive Sequence (Hashing) | [season-1/ep20-longest-consecutive-sequence](season-1/ep20-longest-consecutive-sequence) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 21 | Top K Frequent Elements (Hashing) | _coming soon_ | |
+| 21 | Top K Frequent Elements (Hashing + Bucket) | [season-1/ep21-top-k-frequent-elements](season-1/ep21-top-k-frequent-elements) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 22 | Binary Search (new pattern) | _coming soon_ | |
 
 ## Follow
 
