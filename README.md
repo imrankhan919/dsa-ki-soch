@@ -23,7 +23,8 @@ Zaroorat: sirf Python basics.
 | 01 | Two Sum II (Two Pointers) | [season-1/ep01-two-sum-ii](season-1/ep01-two-sum-ii) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 02 | Valid Palindrome (Two Pointers) | [season-1/ep02-valid-palindrome](season-1/ep02-valid-palindrome) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 03 | Move Zeroes (Two Pointers) | [season-1/ep03-move-zeroes](season-1/ep03-move-zeroes) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 04 | Container With Most Water (Two Pointers) | _coming soon_ | |
+| 04 | Container With Most Water (Two Pointers) | [season-1/ep04-container-with-most-water](season-1/ep04-container-with-most-water) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 05 | 3Sum (Two Pointers) | _coming soon_ | |
 
 ## Follow
 
