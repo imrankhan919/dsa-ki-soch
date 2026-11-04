@@ -32,7 +32,8 @@ Zaroorat: sirf Python basics.
 | 10 | Longest Repeating Character Replacement (Sliding Window) | [season-1/ep10-longest-repeating-character-replacement](season-1/ep10-longest-repeating-character-replacement) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 11 | Range Sum Query (Prefix Sum, new pattern) | [season-1/ep11-range-sum-query](season-1/ep11-range-sum-query) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 12 | Find Pivot Index (Prefix Sum) | [season-1/ep12-find-pivot-index](season-1/ep12-find-pivot-index) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 13 | Product of Array Except Self (Prefix Sum) | _coming soon_ | |
+| 13 | Product of Array Except Self (Prefix × Suffix) | [season-1/ep13-product-of-array-except-self](season-1/ep13-product-of-array-except-self) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 14 | Subarray Sum Equals K (Prefix Sum + HashMap) | _coming soon_ | |
 
 ## Follow
 
