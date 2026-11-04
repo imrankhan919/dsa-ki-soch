@@ -27,6 +27,7 @@ Zaroorat: sirf Python basics.
 | 05 | 3Sum (Two Pointers) | [season-1/ep05-3sum](season-1/ep05-3sum) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 06 | Maximum Average Subarray I (Sliding Window) | [season-1/ep06-max-average-subarray](season-1/ep06-max-average-subarray) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 07 | Longest Substring Without Repeating Characters (Sliding Window) | [season-1/ep07-longest-substring](season-1/ep07-longest-substring) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 08 | Minimum Size Subarray Sum (Sliding Window) | [season-1/ep08-min-size-subarray-sum](season-1/ep08-min-size-subarray-sum) | [YouTube](https://www.youtube.com/@eskillsweb) |
 
 ## Follow
 
