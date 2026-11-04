@@ -29,6 +29,8 @@ Zaroorat: sirf Python basics.
 | 07 | Longest Substring Without Repeating Characters (Sliding Window) | [season-1/ep07-longest-substring](season-1/ep07-longest-substring) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 08 | Minimum Size Subarray Sum (Sliding Window) | [season-1/ep08-min-size-subarray-sum](season-1/ep08-min-size-subarray-sum) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 09 | Permutation in String (Sliding Window + ginti) | [season-1/ep09-permutation-in-string](season-1/ep09-permutation-in-string) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 10 | Longest Repeating Character Replacement (Sliding Window) | [season-1/ep10-longest-repeating-character-replacement](season-1/ep10-longest-repeating-character-replacement) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 11 | Prefix Sum (new pattern) | _coming soon_ | |
 
 ## Follow
 
