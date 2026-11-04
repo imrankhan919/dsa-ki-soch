@@ -30,7 +30,8 @@ Zaroorat: sirf Python basics.
 | 08 | Minimum Size Subarray Sum (Sliding Window) | [season-1/ep08-min-size-subarray-sum](season-1/ep08-min-size-subarray-sum) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 09 | Permutation in String (Sliding Window + ginti) | [season-1/ep09-permutation-in-string](season-1/ep09-permutation-in-string) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 10 | Longest Repeating Character Replacement (Sliding Window) | [season-1/ep10-longest-repeating-character-replacement](season-1/ep10-longest-repeating-character-replacement) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 11 | Prefix Sum (new pattern) | _coming soon_ | |
+| 11 | Range Sum Query (Prefix Sum, new pattern) | [season-1/ep11-range-sum-query](season-1/ep11-range-sum-query) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 12 | Find Pivot Index (Prefix Sum) | _coming soon_ | |
 
 ## Follow
 
