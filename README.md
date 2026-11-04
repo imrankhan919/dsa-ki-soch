@@ -21,7 +21,8 @@ Zaroorat: sirf Python basics.
 | --- | --- | --- | --- |
 | 00 | Two Sum (3 tareeke se) | [season-1/ep00-two-sum](season-1/ep00-two-sum) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 01 | Two Sum II (Two Pointers) | [season-1/ep01-two-sum-ii](season-1/ep01-two-sum-ii) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 02 | Valid Palindrome (Two Pointers) | _coming soon_ | |
+| 02 | Valid Palindrome (Two Pointers) | [season-1/ep02-valid-palindrome](season-1/ep02-valid-palindrome) | [YouTube](https://www.youtube.com/@eskillsweb) |
+| 03 | Move Zeroes (Two Pointers) | _coming soon_ | |
 
 ## Follow
 
