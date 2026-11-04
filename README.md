@@ -26,7 +26,7 @@ Zaroorat: sirf Python basics.
 | 04 | Container With Most Water (Two Pointers) | [season-1/ep04-container-with-most-water](season-1/ep04-container-with-most-water) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 05 | 3Sum (Two Pointers) | [season-1/ep05-3sum](season-1/ep05-3sum) | [YouTube](https://www.youtube.com/@eskillsweb) |
 | 06 | Maximum Average Subarray I (Sliding Window) | [season-1/ep06-max-average-subarray](season-1/ep06-max-average-subarray) | [YouTube](https://www.youtube.com/@eskillsweb) |
-| 07 | Longest Substring Without Repeating Characters (Sliding Window) | _coming soon_ | |
+| 07 | Longest Substring Without Repeating Characters (Sliding Window) | [season-1/ep07-longest-substring](season-1/ep07-longest-substring) | [YouTube](https://www.youtube.com/@eskillsweb) |
 
 ## Follow
 
